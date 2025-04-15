@@ -8,31 +8,33 @@ Análisis de datos inmobiliarios
 Modelo de regresión lineal
 Visualización de importancia de variables
 Predicciones de precios en tiempo real
-Evaluación de rendimiento del modelo
+Evaluación de rendimiento del modelo 
+
 Tecnologías utilizadas 🛠️
-Python 3.x
-pandas
-numpy
-scikit-learn
-matplotlib
+
+  Python 3.x
+  pandas
+  numpy
+  scikit-learn
+  matplotlib
 
 Estructura del modelo
-Carga y preprocesamiento de datos
-División en conjuntos de entrenamiento (80%) y prueba (20%)
-Entrenamiento del modelo de regresión lineal
-Evaluación mediante RMSE y R²
-Visualización de resultados
+  Carga y preprocesamiento de datos
+  División en conjuntos de entrenamiento (80%) y prueba (20%)
+  Entrenamiento del modelo de regresión lineal
+  Evaluación mediante RMSE y R²
+  Visualización de resultados
 
 Variables del modelo
-Año de transacción
-Edad de la casa
-Distancia a estación metro
-Número de tiendas cercanas
-Coordenadas (latitud/longitud)
-Resultados
-El modelo proporciona:
+  Año de transacción
+  Edad de la casa
+  Distancia a estación metro
+  Número de tiendas cercanas
+  Coordenadas (latitud/longitud)
+  Resultados
 
-Predicciones precisas de precios
-Análisis de importancia de variables
-Métricas de rendimiento (RMSE, R²)
-Visualizaciones interactivas
+El modelo proporciona:
+  Predicciones precisas de precios
+  Análisis de importancia de variables
+  Métricas de rendimiento (RMSE, R²)
+  Visualizaciones interactivas
